@@ -12,6 +12,6 @@ get '/new' do
 end
 
 post '/puppy' do 
-  @puppy Puppy.new(params[])
+  @puppy Puppy.new(params[:name],)
 
 end
