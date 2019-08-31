@@ -7,6 +7,7 @@ get '/' do
   erb :index 
 end 
 
-get '/'
+get '/new' do 
+  
 
 end
