@@ -12,6 +12,6 @@ get '/new' do
 end
 
 post '/puppy' do 
-  @puppy 
+  @puppy Puppy.new
 
 end
