@@ -1,3 +1,3 @@
 class Puppy 
   
-  init
+  attr_accessor
