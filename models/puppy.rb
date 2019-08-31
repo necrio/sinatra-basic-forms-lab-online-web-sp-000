@@ -7,3 +7,5 @@ class Puppy
     @breed = breed 
     @age = age 
   end 
+  
+end
